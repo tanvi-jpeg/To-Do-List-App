@@ -2,6 +2,9 @@
 
 A simple and responsive **To-Do List web application** built using **HTML, CSS, and JavaScript**. This project allows users to create, manage, complete, delete, and filter their daily tasks.
 
+## 🔗 Live Demo
+https://tanvi-jpeg.github.io/To-Do-List-App/
+
 ## ✨ Features
 
 * ➕ Add new tasks
@@ -57,11 +60,6 @@ Through this project, I practiced:
 
 ## 📸 Preview
 <img width="953" height="847" alt="image" src="https://github.com/user-attachments/assets/106ba54f-eb7f-4681-a226-94e33d2db9ad" />
-
-
-## 🔗 Live Demo
-https://tanvi-jpeg.github.io/To-Do-List-App/
-
 
 ## 👩‍💻 Author
 
